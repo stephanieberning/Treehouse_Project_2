@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+header {
+  overflow: hidden;
+}
+
+h1 {
+  width: 25%;
+}
+
+header nav {
+  width: 75%;
+}
+
+h1, header nav {
+  float: left;
+  display: block;
+}
